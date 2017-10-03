@@ -40,4 +40,6 @@
     <!-- Message for textview in case of errors  -->
     <string name="computationError">Error</string>
 
+    <string name="inputError">Invalid Input</string>
+
 </resources>
